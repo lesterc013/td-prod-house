@@ -9,3 +9,11 @@ export const documents = [
 
   'A BTO flat in Singapore is purchased directly from the Housing and Development Board and typically has a multi-year wait between booking and key collection, since the unit is often still under construction at the time of application.',
 ];
+
+export const queries = [
+  'How do guitarists play the same song in different keys without retuning?', // → CAGED
+  'What is the right way to breathe when your face is in the water?', // → trickle breathing
+  'How would you simulate a passport control queue?', // → discrete-event simulation
+  'How do you keep a client and server agreeing on a data schema?', // → gRPC/protobuf
+  'What is the waiting process like for government housing in Singapore?', // → BTO
+];
